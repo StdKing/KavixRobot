@@ -76,8 +76,8 @@ async def start_bot():
  _____________________________________________   
 |                                             |  
 |          Deployed Successfully              |  
-|         (C) 2021-2022 by @szteambots        | 
-|          Greetings from supun  :)           |
+|         (C) 2021-2022 by @teamstdbots        | 
+|          Greetings from std king  :)           |
 |_____________________________________________| """)
     await idle()
     await aiohttpsession.close()
@@ -105,10 +105,10 @@ home_keyboard_pm = InlineKeyboardMarkup(
             callback_data="bot_commands")
         ],
         [
-            InlineKeyboardButton(text="Website", 
-            url=f"https://szrosebot.ml"),
+            InlineKeyboardButton(text="Network", 
+            url=f"https://t.me/Team_STD_Network"),
             InlineKeyboardButton(text="News Channel", 
-            url=f"https://t.me/szroseupdates")
+            url=f"https://t.me/TeamStdBots")
         ]
     ]
 )
@@ -162,11 +162,11 @@ My name is {BOT_NAME} an  advanced telegram Group management Bot For helpYou Pro
 
 
 fbuttons = InlineKeyboardMarkup(
-        [[InlineKeyboardButton(text="👥Support Group", url="https://t.me/szrosesupport"),
-          InlineKeyboardButton(text="👤News Channel", url="https://t.me/Theszrosebot")], 
-        [ InlineKeyboardButton(text="⚒ Source Code", url="https://github.com/szsupunma/sz-rosebot"),
-          InlineKeyboardButton(text="📓 Documentation", url="https://szsupunma.gitbook.io/rose-bot")], 
-        [InlineKeyboardButton(text="🖥 How To Deploy Me", url="https://szsupunma.gitbook.io/rose-bot")
+        [[InlineKeyboardButton(text="👥Support Group", url="https://t.me/Devilshavelimf"),
+          InlineKeyboardButton(text="👤News Channel", url="https://t.me/TeamStdBots")], 
+        [ InlineKeyboardButton(text="⚒ Source Code", url="https://t.me/Team_STD_Network"),
+          InlineKeyboardButton(text="🧑‍🤝‍🧑 Chatting", url="https://t.me/STD_FRIENDS_CLUB")], 
+        [InlineKeyboardButton(text="🖥 Server", url="https://t.me/DevilsServerMF")
         ],[InlineKeyboardButton("« Back", callback_data='startcq')]])
 
 keyboard =InlineKeyboardMarkup(
@@ -258,7 +258,7 @@ async def help_parser(name, keyboard=None):
 I'm a group management bot with some useful features.
 You can choose an option below, by clicking a button.
 If you have any bugs or questions on how to use me, 
-have a look at my [Docs](https://szsupunma.gitbook.io/rose-bot/), or head to @szteambots.
+have a look at my [Network](https://t.me/Team_STD_Network), or head to @teamstdbots.
 
 **All commands can be used with the following: / **""",keyboard)
 

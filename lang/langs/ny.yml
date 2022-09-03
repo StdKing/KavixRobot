@@ -1,7 +1,7 @@
 name : chichewa
 
 #menu - menu.py
-menu : "Rose adapangidwa pa Ogasiti 10, 2021. Panopa tikupanga ndi kukonza pulogalamu yowonjezera ya WilliamButcherBot ndi Alita_Robot, pogwiritsa ntchito Pyrogram libarry yokha.\n\n• creator : [supun](https://t.me/supunma )\n• Chiyankhulo : [python 3](https://www.python.org/)\n• Database : [Mongo db](https://cloud.mongodb.com/)\n• Seva : [Heroku ](https://heroku.com/)\n• Mangani Mtundu : 1.0.9\n\n@Theszrosebot"
+menu : "Rose adapangidwa pa Ogasiti 05, 2022. Panopa tikupanga ndi kukonza pulogalamu yowonjezera ya STD_ROBOT ndi NancyMusicBot, pogwiritsa ntchito Pyrogram libarry yokha.\n\n• creator : [STD](https://t.me/STD_KING )\n• Chiyankhulo : [python 3](https://www.python.org/)\n• Database : [Mongo db](https://cloud.mongodb.com/)\n• Seva : [Heroku ](https://heroku.com/)\n• Mangani Mtundu : 1.0.9\n\n@Teamstdbots"
 back : "« Kubwerera"
 
 #main - main.py

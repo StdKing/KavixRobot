@@ -1,7 +1,7 @@
 Name: Deutsch
 
 #menu - menu.py
-menu : "Rose wurde am 10. August 2021 erstellt. \nWir entwickeln und warten derzeit Plugins von WilliamButcherBot und Alita_Robot, wobei wir nur die Pyrogram-Bibliothek verwenden.\n\n• Ersteller: [supun](https://t.me/ supunma)\n• Sprache: [python 3](https://www.python.org/)\n• Datenbank: [Mongo db](https://cloud.mongodb.com/)\n• Server: [ Heroku](https://heroku.com/)\n• Build-Version: 2.0\n\n@Theszrosebot"
+menu : "Rose wurde am 05. September 2022 erstellt. \nWir entwickeln und warten derzeit Plugins von STD_ROBOT und NancyMusicBot, wobei wir nur die Pyrogram-Bibliothek verwenden.\n\n• Ersteller: [supun](https://t.me/ supunma)\n• Sprache: [python 3](https://www.python.org/)\n• Datenbank: [Mongo db](https://cloud.mongodb.com/)\n• Server: [ Heroku](https://heroku.com/)\n• Build-Version: 2.0\n\n@Teamstdbots"
 back : "zurück"
 
 #main - main.py

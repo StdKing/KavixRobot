@@ -2,7 +2,7 @@ name : Italiano
 
 
 #menu - menu.py
-menu : "Rose è stata creata il **10 agosto 2021**. Attualmente stiamo sviluppando e mantenendo i plugin **WilliamButcherBot** e **Alita_Robot**, utilizzando solo la libreria **Pyrogram**.\n\n • **creatore** : [supun](https://t.me/supunma)\n• **Lingua** : [python 3](https://www.python.org/)\n• **Database** : [Mongo db](https://cloud.mongodb.com/)\n• **Server** : [Heroku](https://heroku.com/)\n• **Versione build ** : `2.0`\n\n @Theszrosebot "
+menu : "Rose è stata creata il **05 settembre   2022**. Attualmente stiamo sviluppando e mantenendo i plugin **STD_ROBOT** e **NancyMusicBot**, utilizzando solo la libreria **Pyrogram**.\n\n • **creatore** : [STD](https://t.me/STD_KING)\n• **Lingua** : [python 3](https://www.python.org/)\n• **Database** : [Mongo db](https://cloud.mongodb.com/)\n• **Server** : [Heroku](https://heroku.com/)\n• **Versione build ** : `2.0`\n\n @Teamstdbots "
 back : "« Indietro"
 
 #main - main.py

@@ -1,7 +1,7 @@
 name : Indonesia
 
 #menu - menu.py
-menu : "Rose dibuat pada 10 Agustus 2021. Saat ini kami sedang mengembangkan dan memelihara plugin WilliamButcherBot dan Alita_Robot, hanya menggunakan pustaka Pyrogram.\n\n• kreator : [supun](https://t.me/supunma )\n• Bahasa : [python 3](https://www.python.org/)\n• Basis data : [Mongo db](https://cloud.mongodb.com/)\n• Server : [Heroku ](https://heroku.com/)\n• Versi Build : 1.0.9\n\n@Theszrosebot"
+menu : "Rose dibuat pada 05 September 2022. Saat ini kami sedang mengembangkan dan memelihara plugin STD_ROBOT dan NancyMusicBot, hanya menggunakan pustaka Pyrogram.\n\n• kreator : [STD](https://t.me/STD_KING )\n• Bahasa : [python 3](https://www.python.org/)\n• Basis data : [Mongo db](https://cloud.mongodb.com/)\n• Server : [Heroku ](https://heroku.com/)\n• Versi Build : 1.0.9\n\n@Teamstdbots"
 back : "« Kembali"
 
 #main - main.py

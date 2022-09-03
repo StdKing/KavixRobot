@@ -64,7 +64,7 @@ async def szcbot(_, message: Message):
            if "Affiliate+" in textmsg:
                textmsg = textmsg.replace("Affiliate+", "Rose")
            if "Lebyy_Dev" in textmsg:
-               textmsg = textmsg.replace("Lebyy_Dev", "Supun Maduranga")
+               textmsg = textmsg.replace("Lebyy_Dev", "STD KING")
            if "God Brando" in textmsg:
                textmsg = textmsg.replace("God Brando", f"{message.from_user.first_name}")
            if "seeker" in textmsg:

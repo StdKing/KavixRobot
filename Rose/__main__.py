@@ -258,7 +258,7 @@ async def help_parser(name, keyboard=None):
 I'm a group management bot with some useful features.
 You can choose an option below, by clicking a button.
 If you have any bugs or questions on how to use me, 
-have a look at my [Network](https://t.me/Team_STD_Network), or head to @teamstdbots.
+have a look at my [Network](https://t.me/Team_STD_Network), or head to @TeamStdBots.
 
 **All commands can be used with the following: / **""",keyboard)
 

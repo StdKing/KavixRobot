@@ -189,13 +189,13 @@ async def welcome(_, message: Message):
             await message.reply_text(
                     f"""
 Thanks for adding me to your {group_name}! Don't forget follow
-my news channel @Theszrosebot.
+my news channel @MASTIGROUP91.
 
 **New to Me, Touch the below button and start me in PM**
                     """,
                     reply_markup=InlineKeyboardMarkup(
             [
-                InlineKeyboardButton("quick start guide", url="http://t.me/szrosebot?start=help"),
+                InlineKeyboardButton("quick start guide", url="http://t.me/greatgrandbot?start=help"),
             ]))
 
             return await app.send_message(
@@ -212,7 +212,7 @@ my news channel @Theszrosebot.
                 "Wow ! Owner has just joined your chat.",
             )
             
-        if member.id == 1467358214:#for @supunma 
+        if member.id == 5485165173:#for @STD_CODER 
             return await app.send_message(
                 message.chat.id,
                 "Wow ! Developer has just joined your chat.",

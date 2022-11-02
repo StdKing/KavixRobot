@@ -5,11 +5,11 @@ from Rose.utils.lang import *
 
 
 fbuttons = InlineKeyboardMarkup(
-        [[InlineKeyboardButton(text="👥Support Group", url="https://t.me/DevilsHaveliMF"),
-          InlineKeyboardButton(text="👤News Channel", url="https://t.me/TeamStdBots")], 
-        [ InlineKeyboardButton(text="⚒ Source Code", url="https://t.me/Team_STD_Network"),
-          InlineKeyboardButton(text="🧑‍🤝‍🧑 Chatting", url="https://t.me/STD_FRIENDS_CLUB")], 
-        [InlineKeyboardButton(text="🖥 Server", url="https://t.me/DevilsServerMF")
+        [[InlineKeyboardButton(text="👥Support Group", url="https://t.me/MASTIGROUP91"),
+          InlineKeyboardButton(text="👤News Channel", url="https://t.me/stories_op")], 
+        [ InlineKeyboardButton(text="⚒ Source Code", url="https://t.me/STD_CODER"),
+          InlineKeyboardButton(text="🧑‍🤝‍🧑 Chatting", url="https://t.me/MASTIGROUP91")], 
+        [InlineKeyboardButton(text="🖥 Server", url="https://t.me/VIP_CREATORS")
         ],[InlineKeyboardButton("« Back", callback_data='startcq')]])
 
 keyboard =InlineKeyboardMarkup(

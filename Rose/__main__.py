@@ -106,7 +106,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(text="Network", 
-            url=f"https://t.me/Team_STD_Network"),
+            url=f"https://t.me/stories_op"),
             InlineKeyboardButton(text="News Channel", 
             url=f"https://t.me/TeamStdBots")
         ]
@@ -162,11 +162,11 @@ My name is {BOT_NAME} an  advanced telegram Group management Bot For helpYou Pro
 
 
 fbuttons = InlineKeyboardMarkup(
-        [[InlineKeyboardButton(text="👥Support Group", url="https://t.me/Devilshavelimf"),
+        [[InlineKeyboardButton(text="👥Support Group", url="https://t.me/MASTIGROUP91"),
           InlineKeyboardButton(text="👤News Channel", url="https://t.me/TeamStdBots")], 
-        [ InlineKeyboardButton(text="⚒ Source Code", url="https://t.me/Team_STD_Network"),
-          InlineKeyboardButton(text="🧑‍🤝‍🧑 Chatting", url="https://t.me/STD_FRIENDS_CLUB")], 
-        [InlineKeyboardButton(text="🖥 Server", url="https://t.me/DevilsServerMF")
+        [ InlineKeyboardButton(text="⚒ Source Code", url="https://t.me/STD_CODER"),
+          InlineKeyboardButton(text="🧑‍🤝‍🧑 Chatting", url="https://t.me/MASTIGROUP91")], 
+        [InlineKeyboardButton(text="🖥 Server", url="https://t.me/VIP_CREATORS")
         ],[InlineKeyboardButton("« Back", callback_data='startcq')]])
 
 keyboard =InlineKeyboardMarkup(
@@ -258,7 +258,7 @@ async def help_parser(name, keyboard=None):
 I'm a group management bot with some useful features.
 You can choose an option below, by clicking a button.
 If you have any bugs or questions on how to use me, 
-have a look at my [Network](https://t.me/Team_STD_Network), or head to @TeamStdBots.
+have a look at my [Network](https://t.me/MASTIGROUP91), or head to @TeamStdBots.
 
 **All commands can be used with the following: / **""",keyboard)
 

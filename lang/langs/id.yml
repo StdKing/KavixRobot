@@ -1,7 +1,7 @@
 name : Indonesia
 
 #menu - menu.py
-menu : "Rose dibuat pada 05 September 2022. Saat ini kami sedang mengembangkan dan memelihara plugin STD_ROBOT dan NancyMusicBot, hanya menggunakan pustaka Pyrogram.\n\n• kreator : [STD](https://t.me/STD_KING )\n• Bahasa : [python 3](https://www.python.org/)\n• Basis data : [Mongo db](https://cloud.mongodb.com/)\n• Server : [Heroku ](https://heroku.com/)\n• Versi Build : 1.0.9\n\n@Teamstdbots"
+menu : "Kavi dibuat pada TEAM-STD. Saat ini kami sedang mengembangkan dan memelihara plugin StdxRobot dan StdMusicBot, hanya menggunakan pustaka Pyrogram.\n\n• kreator : [STD](https://t.me/STD_KING )\n• Bahasa : [python 3](https://www.python.org/)\n• Basis data : [Mongo db](https://cloud.mongodb.com/)\n• Server : [Heroku ](https://heroku.com/)\n• Versi Build : 1.0.9\n\n@Teamstdbots"
 back : "« Kembali"
 
 #main - main.py
@@ -9,7 +9,7 @@ main1 : " Halo ! Saya {} \n\nBot manajemen grup telegram tingkat lanjut Untuk ba
 main2 : "PM saya jika Anda memiliki pertanyaan bagaimana menggunakan saya!"
 main3 : "Klik disini"
 main4 : "Klik tombol di bawah ini untuk mendapatkan bantuan tentang {}"
-main5 : "Selamat datang di menu bantuan\n\nSaya adalah bot manajemen grup dengan beberapa fitur yang berguna.\nAnda dapat memilih opsi di bawah ini, dengan mengeklik tombol.\nJika Anda memiliki bug atau pertanyaan tentang cara menggunakan saya, \ nlihat [Docs](https://szsupunma.gitbook.io/rose-bot/) saya, atau kunjungi @szteambots.\n\nSemua perintah dapat digunakan dengan yang berikut: / "
+main5 : "Selamat datang di menu bantuan\n\nSaya adalah bot manajemen grup dengan beberapa fitur yang berguna.\nAnda dapat memilih opsi di bawah ini, dengan mengeklik tombol.\nJika Anda memiliki bug atau pertanyaan tentang cara menggunakan saya, \ nlihat [Docs](https://TermuxBoy) saya, atau kunjungi @szteambots.\n\nSemua perintah dapat digunakan dengan yang berikut: / "
 main6 : "Inilah bantuan untuk {}"
 
 #plugin - admin.py

@@ -9,7 +9,7 @@ main1 : " Halo ! Saya {} \n\nBot manajemen grup telegram tingkat lanjut Untuk ba
 main2 : "PM saya jika Anda memiliki pertanyaan bagaimana menggunakan saya!"
 main3 : "Klik disini"
 main4 : "Klik tombol di bawah ini untuk mendapatkan bantuan tentang {}"
-main5 : "Selamat datang di menu bantuan\n\nSaya adalah bot manajemen grup dengan beberapa fitur yang berguna.\nAnda dapat memilih opsi di bawah ini, dengan mengeklik tombol.\nJika Anda memiliki bug atau pertanyaan tentang cara menggunakan saya, \ nlihat [Docs](https://TermuxBoy) saya, atau kunjungi @szteambots.\n\nSemua perintah dapat digunakan dengan yang berikut: / "
+main5 : "Selamat datang di menu bantuan\n\nSaya adalah bot manajemen grup dengan beberapa fitur yang berguna.\nAnda dapat memilih opsi di bawah ini, dengan mengeklik tombol.\nJika Anda memiliki bug atau pertanyaan tentang cara menggunakan saya, \ nlihat [Docs](https://TermuxBoy) saya, atau kunjungi @teamstdbots.\n\nSemua perintah dapat digunakan dengan yang berikut: / "
 main6 : "Inilah bantuan untuk {}"
 
 #plugin - admin.py
@@ -95,7 +95,7 @@ app12 : "{} bukan pengguna yang disetujui. Mereka dipengaruhi oleh perintah norm
 
 #plugin - lang.py
 setting_1 : "Halo {}, saya bisa berbicara banyak bahasa\n Pilih bahasa Anda dari bawah !"
-setting_2 : "[🌎](https://crwd.in/szrosebot)Bahasa berhasil diubah \n.Diubah oleh {}"
+setting_2 : "[🌎](https://crwd.in/kabirobot)Bahasa berhasil diubah \n.Diubah oleh {}"
 
 #plugin - ban.py
 ban2 : "Tidak dapat menemukan pengguna untuk ditendang."
@@ -137,7 +137,7 @@ chatb4 : "Bot Obrolan Berhasil Dinonaktifkan Dalam Obrolan❌"
 chatb5 : "Saya tidak mengerti /chatbot aktif dan /chatbot mati saja"
 chatb6 : "Rose Bot AI Voice Chatbot"
 chatb7 : "Rose Bot Adalah Yang Terbaik..."
-chatb8 : "Dibuat oleh @szteambots..."
+chatb8 : "Dibuat oleh @kavirobot..."
 chatb9 : "Membalas..."
 chatb10 : "Bot obrolan diaktifkan ."
 chatb11 : "Bot Obrolan Sudah Diaktifkan Di Obrolan Ini"
@@ -215,8 +215,8 @@ nm5 : "Anda dapat mengatur mode malam hanya dalam grup :("
 nm6 : "**Menghapus Obrolan Ini Dari Basis Data. Grup Ini Tidak Akan Ditutup Lagi Pada Pukul 12.00(IST)"
 nm7 : "Tidak Diaktifkan Dalam Obrolan Ini"
 nm8 : "Saya tidak mengerti /nightmode aktif dan /nightmode mati saja"
-nm9 : "🌗 12:00, Grup Tutup Hingga 06:00. Mode Malam Dimulai ! \nDiberdayakan Oleh @szrosebot"
-nm10 : "🌗 06:00, Grup Dibuka.\nDiberdayakan oleh @szrosebot"
+nm9 : "🌗 12:00, Grup Tutup Hingga 06:00. Mode Malam Dimulai ! \nDiberdayakan Oleh @kavirobot"
+nm10 : "🌗 06:00, Grup Dibuka.\nDiberdayakan oleh @kavirobot"
 nm11 : "Berikan juga parameter lain"
 nm12 : "Sintaks tidak valid \n Coba /bantu mode malam"
 nm13 : "Silakan masukkan tanggal dan waktu yang valid...!"

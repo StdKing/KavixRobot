@@ -2,7 +2,7 @@ name : Italiano
 
 
 #menu - menu.py
-menu : "Rose è stata creata il **05 settembre   2022**. Attualmente stiamo sviluppando e mantenendo i plugin **STD_ROBOT** e **NancyMusicBot**, utilizzando solo la libreria **Pyrogram**.\n\n • **creatore** : [STD](https://t.me/STD_KING)\n• **Lingua** : [python 3](https://www.python.org/)\n• **Database** : [Mongo db](https://cloud.mongodb.com/)\n• **Server** : [Heroku](https://heroku.com/)\n• **Versione build ** : `2.0`\n\n @Teamstdbots "
+menu : "Kavi è stata creata il **05 settembre   2022**. Attualmente stiamo sviluppando e mantenendo i plugin **StdxRobot** e **StdMusicBot**, utilizzando solo la libreria **Pyrogram**.\n\n • **creatore** : [STD](https://t.me/STD_KING)\n• **Lingua** : [python 3](https://www.python.org/)\n• **Database** : [Mongo db](https://cloud.mongodb.com/)\n• **Server** : [Heroku](https://heroku.com/)\n• **Versione build ** : `2.0`\n\n @Teamstdbots "
 back : "« Indietro"
 
 #main - main.py
@@ -10,7 +10,7 @@ main1 : "Ciao! Sono {} \n\nUn bot avanzato per la gestione dei gruppi di Telegra
 main2 : "**PM me se hai domande su come usarmi!**"
 main3 : "Clicca qui"
 main4 : "Fai clic sul pulsante in basso per ottenere assistenza su {}"
-main5 : "**Benvenuto nel menu di aiuto**\n\nSono un bot per la gestione di gruppi con alcune utili funzioni.\nPuoi scegliere un'opzione di seguito, facendo clic su un pulsante.\nSe hai bug o domande su come usami, \ndai un'occhiata ai miei [Documenti](https://szsupunma.gitbook.io/rose-bot/), o vai su @szteambots.\n\n**Tutti i comandi possono essere usati con quanto segue: / **"
+main5 : "**Benvenuto nel menu di aiuto**\n\nSono un bot per la gestione di gruppi con alcune utili funzioni.\nPuoi scegliere un'opzione di seguito, facendo clic su un pulsante.\nSe hai bug o domande su come usami, \ndai un'occhiata ai miei [Documenti](https://termuxboy), o vai su @teamstdbots.\n\n**Tutti i comandi possono essere usati con quanto segue: / **"
 main6 : "Ecco l'aiuto per **{}**"
 
 #plugin - admin.py
@@ -96,7 +96,7 @@ app12 : "{} non è un utente approvato. Sono interessati dai normali comandi."
 
 #plugin - lang.py
 setting_1 : "Ciao {}, so parlare molte lingue\n Seleziona la tua lingua da qui sotto!"
-setting_2 : "[🌎](https://crwd.in/szrosebot)La lingua è stata modificata con successo \n.Cambiata da {}"
+setting_2 : "[🌎](https://crwd.in/kavirobot)La lingua è stata modificata con successo \n.Cambiata da {}"
 
 
 #plugin - ban.py
@@ -218,8 +218,8 @@ nm5 : "**Puoi impostare la modalità notturna solo in gruppi :(**"
 nm6 : "** Questa chat è stata rimossa dal database. Questo gruppo non sarà più chiuso alle 12:00 (IST)"
 nm7 : "**Non attivato in questa chat**"
 nm8 : "Capisco solo `/nightmode on` e `/nightmode off`"
-nm9 : "🌗 00:00, il gruppo chiude fino alle 6:00. Modalità notturna iniziata! \n**Fornito da @szrosebot**"
-nm10 : "🌗 06:00, il gruppo sta aprendo.\n**Fornito da @szrosebot**"
+nm9 : "🌗 00:00, il gruppo chiude fino alle 6:00. Modalità notturna iniziata! \n**Fornito da @teamstdbots**"
+nm10 : "🌗 06:00, il gruppo sta aprendo.\n**Fornito da @teamstdbots**"
 nm11 : "Dai anche altri parametri"
 nm12 : "Sintassi non valida \n Prova `/help nightmode`"
 nm13 : "Inserisci data e ora valide...!"

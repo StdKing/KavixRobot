@@ -9,7 +9,7 @@ main1 : " Moni ! Ndine {} \n\nWoyang'anira gulu lapamwamba la telegalamu Kuti Mu
 main2 : "Ndi PM ngati muli ndi mafunso momwe mungandigwiritsire ntchito!"
 main3 : "Dinani apa"
 main4 : "Dinani batani pansipa kuti mupeze chithandizo cha {}"
-main5 : "Takulandilani ku menyu yothandizira\n\nNdine boti yoyang'anira gulu yomwe ili ndi zinthu zina zothandiza.\nMutha kusankha njira ili m'munsiyi, podina batani.\nNgati muli ndi zolakwika kapena mafunso okhudza momwe mungagwiritsire ntchito, \ nhave a look at my [Docs](https://termuxboy), kapena mutu ku @teamstdbots.\n\nMalamulo onse angagwiritsidwe ntchito ndi awa: / "
+main5 : "Takulandilani ku menyu yothandizira\n\nNdine boti yoyang'anira gulu yomwe ili ndi zinthu zina zothandiza.\nMutha kusankha njira ili m'munsiyi, podina batani.\nNgati muli ndi zolakwika kapena mafunso okhudza momwe mungagwiritsire ntchito, \ nhave a look at my [Docs](https://szsupunma.gitbook.io/rose-bot/), kapena mutu ku @teamstdbots.\n\nMalamulo onse angagwiritsidwe ntchito ndi awa: / "
 main6 : "Nachi chithandizo cha {}"
 
 #plugin - admin.py

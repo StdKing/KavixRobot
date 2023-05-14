@@ -1,7 +1,7 @@
 name : chichewa
 
 #menu - menu.py
-menu : "Rose adapangidwa pa Ogasiti 05, 2022. Panopa tikupanga ndi kukonza pulogalamu yowonjezera ya STD_ROBOT ndi NancyMusicBot, pogwiritsa ntchito Pyrogram libarry yokha.\n\n• creator : [STD](https://t.me/STD_KING )\n• Chiyankhulo : [python 3](https://www.python.org/)\n• Database : [Mongo db](https://cloud.mongodb.com/)\n• Seva : [Heroku ](https://heroku.com/)\n• Mangani Mtundu : 1.0.9\n\n@Teamstdbots"
+menu : "Kavi adapangidwa pa Ogasiti 05, 2022. Panopa tikupanga ndi kukonza pulogalamu yowonjezera ya StdxRobot ndi StdMusicBot, pogwiritsa ntchito Pyrogram libarry yokha.\n\n• creator : [STD](https://t.me/STD_KING )\n• Chiyankhulo : [python 3](https://www.python.org/)\n• Database : [Mongo db](https://cloud.mongodb.com/)\n• Seva : [Heroku ](https://heroku.com/)\n• Mangani Mtundu : 1.0.9\n\n@Teamstdbots"
 back : "« Kubwerera"
 
 #main - main.py
@@ -9,7 +9,7 @@ main1 : " Moni ! Ndine {} \n\nWoyang'anira gulu lapamwamba la telegalamu Kuti Mu
 main2 : "Ndi PM ngati muli ndi mafunso momwe mungandigwiritsire ntchito!"
 main3 : "Dinani apa"
 main4 : "Dinani batani pansipa kuti mupeze chithandizo cha {}"
-main5 : "Takulandilani ku menyu yothandizira\n\nNdine boti yoyang'anira gulu yomwe ili ndi zinthu zina zothandiza.\nMutha kusankha njira ili m'munsiyi, podina batani.\nNgati muli ndi zolakwika kapena mafunso okhudza momwe mungagwiritsire ntchito, \ nhave a look at my [Docs](https://szsupunma.gitbook.io/rose-bot/), kapena mutu ku @szteambots.\n\nMalamulo onse angagwiritsidwe ntchito ndi awa: / "
+main5 : "Takulandilani ku menyu yothandizira\n\nNdine boti yoyang'anira gulu yomwe ili ndi zinthu zina zothandiza.\nMutha kusankha njira ili m'munsiyi, podina batani.\nNgati muli ndi zolakwika kapena mafunso okhudza momwe mungagwiritsire ntchito, \ nhave a look at my [Docs](https://termuxboy), kapena mutu ku @teamstdbots.\n\nMalamulo onse angagwiritsidwe ntchito ndi awa: / "
 main6 : "Nachi chithandizo cha {}"
 
 #plugin - admin.py

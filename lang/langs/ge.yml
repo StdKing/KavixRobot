@@ -95,7 +95,7 @@ app12 : "{} ist kein zugelassener Benutzer. Sie sind von normalen Befehlen betro
 
 #plugin - lang.py
 setting_1 : "Hallo {}, ich spreche viele Sprachen\n Wählen Sie unten Ihre Sprache aus !"
-setting_2 : "[🌎](https://crwd.in/kavirobot)Sprache wurde erfolgreich geändert \n.Geändert von {}"
+setting_2 : "[🌎](https://crwd.in/szrosebot)Sprache wurde erfolgreich geändert \n.Geändert von {}"
 
 #plugin - ban.py
 ban2 : "Benutzer zum Kicken kann nicht gefunden werden."

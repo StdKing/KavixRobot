@@ -10,7 +10,7 @@ main1 : "Ciao! Sono {} \n\nUn bot avanzato per la gestione dei gruppi di Telegra
 main2 : "**PM me se hai domande su come usarmi!**"
 main3 : "Clicca qui"
 main4 : "Fai clic sul pulsante in basso per ottenere assistenza su {}"
-main5 : "**Benvenuto nel menu di aiuto**\n\nSono un bot per la gestione di gruppi con alcune utili funzioni.\nPuoi scegliere un'opzione di seguito, facendo clic su un pulsante.\nSe hai bug o domande su come usami, \ndai un'occhiata ai miei [Documenti](https://termuxboy), o vai su @teamstdbots.\n\n**Tutti i comandi possono essere usati con quanto segue: / **"
+main5 : "**Benvenuto nel menu di aiuto**\n\nSono un bot per la gestione di gruppi con alcune utili funzioni.\nPuoi scegliere un'opzione di seguito, facendo clic su un pulsante.\nSe hai bug o domande su come usami, \ndai un'occhiata ai miei [Documenti](https://szsupunma.gitbook.io/rose-bot/), o vai su @teamstdbots.\n\n**Tutti i comandi possono essere usati con quanto segue: / **"
 main6 : "Ecco l'aiuto per **{}**"
 
 #plugin - admin.py

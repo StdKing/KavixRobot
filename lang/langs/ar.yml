@@ -1,7 +1,7 @@
 name : عربي
 
 #menu - menu.py
-menu: "القائمة Rose في 05 أغسطس 2021. \ n نعمل حاليًا على تطوير وصيانة المكونات الإضافية لـ STD_ROBOT و NancyMusicBot ، باستخدام مكتبة Pyrogram فقط. \ n \ n • المنشئ: [STD] (https://t.me/ STD_KING) \ n • اللغة: [python 3] (https://www.python.org/) \ n • قاعدة البيانات: [Mongo db] (https://cloud.mongodb.com/) \ n • الخادم: [ Heroku] (https://heroku.com/) \ n • إصدار الإصدار: 2.0 \ n \ n @ Teamstdbots "
+menu: "القائمة KaviRobot Created by TEAM-STD. \ n نعمل حاليًا على تطوير وصيانة المكونات الإضافية لـ STD_ROBOT و NancyMusicBot ، باستخدام مكتبة Pyrogram فقط. \ n \ n • المنشئ: [STD] (https://t.me/ STD_KING) \ n • اللغة: [python 3] (https://www.python.org/) \ n • قاعدة البيانات: [Mongo db] (https://cloud.mongodb.com/) \ n • الخادم: [ Heroku] (https://heroku.com/) \ n • إصدار الإصدار: 2.0 \ n \ n @ Teamstdbots "
 back: "رجوع"
 
 # main - main.py

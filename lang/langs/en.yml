@@ -95,7 +95,7 @@ app12 : "{} is not an approved user. They are affected by normal commands."
 
 #plugin - lang.py
 setting_1 : "Hello {}, I can speak many languages\n Select your language from bellow!"
-setting_2 : "[🌎](https://crwd.in/KaviRobot)Language was changed Successfully \n.Changed by {}"
+setting_2 : "[🌎](https://crwd.in/szrosebot)Language was changed Successfully \n.Changed by {}"
 
 
 #plugin - ban.py

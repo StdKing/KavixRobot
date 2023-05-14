@@ -95,7 +95,7 @@ app12 : "{} bukan pengguna yang disetujui. Mereka dipengaruhi oleh perintah norm
 
 #plugin - lang.py
 setting_1 : "Halo {}, saya bisa berbicara banyak bahasa\n Pilih bahasa Anda dari bawah !"
-setting_2 : "[🌎](https://crwd.in/kabirobot)Bahasa berhasil diubah \n.Diubah oleh {}"
+setting_2 : "[🌎](https://crwd.in/szrosebot)Bahasa berhasil diubah \n.Diubah oleh {}"
 
 #plugin - ban.py
 ban2 : "Tidak dapat menemukan pengguna untuk ditendang."

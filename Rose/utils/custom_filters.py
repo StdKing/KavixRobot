@@ -12,7 +12,7 @@ from Rose.core.caching import ADMIN_CACHE, admin_cache_reload
 DEV_USERS = ""
 OWNER_ID = DEV_USERS
 SUDO_USERS = DEV_USERS
-BOT = "@GreatGrandbot"
+BOT = "@KaviRobot"
 COMMAND = "/"
 SUDO_LEVEL = set(SUDO_USERS + DEV_USERS + OWNER_ID)
 DEV_LEVEL = set(DEV_USERS + OWNER_ID)

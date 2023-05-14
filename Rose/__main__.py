@@ -106,7 +106,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(text="Network", 
-            url=f"https://t.me/stories_op"),
+            url=f"https://t.me/Teamstdnetwork"),
             InlineKeyboardButton(text="News Channel", 
             url=f"https://t.me/TeamStdBots")
         ]
@@ -162,11 +162,11 @@ My name is {BOT_NAME} an  advanced telegram Group management Bot For helpYou Pro
 
 
 fbuttons = InlineKeyboardMarkup(
-        [[InlineKeyboardButton(text="👥Support Group", url="https://t.me/MASTIGROUP91"),
+        [[InlineKeyboardButton(text="👥Support Group", url="https://t.me/StdXSupport"),
           InlineKeyboardButton(text="👤News Channel", url="https://t.me/TeamStdBots")], 
-        [ InlineKeyboardButton(text="⚒ Source Code", url="https://t.me/STD_CODER"),
-          InlineKeyboardButton(text="🧑‍🤝‍🧑 Chatting", url="https://t.me/MASTIGROUP91")], 
-        [InlineKeyboardButton(text="🖥 Server", url="https://t.me/VIP_CREATORS")
+        [ InlineKeyboardButton(text="⚒ Source Code", url="https://t.me/TermuxBoy"),
+          InlineKeyboardButton(text="🧑‍🤝‍🧑 Chatting", url="https://t.me/Best_Friends_Chat_Group")], 
+        [InlineKeyboardButton(text="🖥 Server", url="https://t.me/Teamstdnetwork")
         ],[InlineKeyboardButton("« Back", callback_data='startcq')]])
 
 keyboard =InlineKeyboardMarkup(
@@ -243,7 +243,7 @@ async def startcq(client,CallbackQuery, _):
         text=f"""
 Hey there {CallbackQuery.from_user.mention}, 
 
-My name is Rose an  advanced telegram Group management Bot For helpYou Protect Your Groups & Suit For All Your Needs.feel free to add me to your groups! """,
+My name is Kavi an  advanced telegram Group management Bot For helpYou Protect Your Groups & Suit For All Your Needs.feel free to add me to your groups! """,
         disable_web_page_preview=True,
         reply_markup=home_keyboard_pm)
 
@@ -258,7 +258,7 @@ async def help_parser(name, keyboard=None):
 I'm a group management bot with some useful features.
 You can choose an option below, by clicking a button.
 If you have any bugs or questions on how to use me, 
-have a look at my [Network](https://t.me/MASTIGROUP91), or head to @TeamStdBots.
+have a look at my [Network](https://t.me/Teamstdnetwork), or head to @TeamStdBots.
 
 **All commands can be used with the following: / **""",keyboard)
 

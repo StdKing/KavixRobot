@@ -96,7 +96,7 @@ app12 : "{} non è un utente approvato. Sono interessati dai normali comandi."
 
 #plugin - lang.py
 setting_1 : "Ciao {}, so parlare molte lingue\n Seleziona la tua lingua da qui sotto!"
-setting_2 : "[🌎](https://crwd.in/kavirobot)La lingua è stata modificata con successo \n.Cambiata da {}"
+setting_2 : "[🌎](https://crwd.in/szrosebot)La lingua è stata modificata con successo \n.Cambiata da {}"
 
 
 #plugin - ban.py

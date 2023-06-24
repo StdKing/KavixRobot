@@ -37,7 +37,7 @@ it is the whisper that will be sent to the target user, you need to remove your 
 you should replace this with target's username so the bot will know that the user with this username can see your whisper message.
 
 example:- 
-`@Best_Friend_Cht_gro hello this is a test @TermuxBoy`
+`@TermuxSupports hello this is a test @TermuxBoy`
 
 📎 the bot works in groups and the target user should be in the same group with you
 what you are waiting for?!

@@ -61,7 +61,7 @@ If you want to make your bot even more unique, you can create a customized rose 
 
 <img style="width:300px; height: 200px;" href="https://youtu.be/ZUvFSU8W7VA" src="https://telegra.ph/file/cf3a10a7f61f62983d2ca.png" alt="youtube"> 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StdParrot-OS/sz-rosebot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StdKing/sz-rosebot)
 
 ## Contact & Support Chats
 

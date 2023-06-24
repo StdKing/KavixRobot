@@ -76,8 +76,8 @@ async def start_bot():
  _____________________________________________   
 |                                             |  
 |          Deployed Successfully              |  
-|         (C) 2021-2022 by @teamstdbots        | 
-|          Greetings from std king  :)           |
+|         (C) 2023-2024 by @termuxboy09        | 
+|          Greetings from termux boy  :)           |
 |_____________________________________________| """)
     await idle()
     await aiohttpsession.close()
@@ -106,9 +106,9 @@ home_keyboard_pm = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(text="Network", 
-            url=f"https://t.me/Teamstdnetwork"),
+            url=f"https://t.me/TermuxBoy09"),
             InlineKeyboardButton(text="News Channel", 
-            url=f"https://t.me/TeamStdBots")
+            url=f"https://t.me/MarieNews")
         ]
     ]
 )
@@ -162,11 +162,11 @@ My name is {BOT_NAME} an  advanced telegram Group management Bot For helpYou Pro
 
 
 fbuttons = InlineKeyboardMarkup(
-        [[InlineKeyboardButton(text="👥Support Group", url="https://t.me/StdXSupport"),
-          InlineKeyboardButton(text="👤News Channel", url="https://t.me/TeamStdBots")], 
+        [[InlineKeyboardButton(text="👥Support Group", url="https://t.me/RoseSupportChat"),
+          InlineKeyboardButton(text="👤News Channel", url="https://t.me/MarieNews")], 
         [ InlineKeyboardButton(text="⚒ Source Code", url="https://t.me/TermuxBoy"),
-          InlineKeyboardButton(text="🧑‍🤝‍🧑 Chatting", url="https://t.me/Best_Friends_Chat_Group")], 
-        [InlineKeyboardButton(text="🖥 Server", url="https://t.me/Teamstdnetwork")
+          InlineKeyboardButton(text="🧑‍🤝‍🧑 Chatting", url="https://t.me/TermuxSupports")], 
+        [InlineKeyboardButton(text="🖥 Server", url="https://t.me/termuxboy09")
         ],[InlineKeyboardButton("« Back", callback_data='startcq')]])
 
 keyboard =InlineKeyboardMarkup(
@@ -258,7 +258,7 @@ async def help_parser(name, keyboard=None):
 I'm a group management bot with some useful features.
 You can choose an option below, by clicking a button.
 If you have any bugs or questions on how to use me, 
-have a look at my [Network](https://t.me/Teamstdnetwork), or head to @TeamStdBots.
+have a look at my [Network](https://t.me/MarieNews), or head to @Termuxboy09.
 
 **All commands can be used with the following: / **""",keyboard)
 

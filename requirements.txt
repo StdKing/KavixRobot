@@ -20,3 +20,4 @@ pyrogram
 pyyaml==5.4
 apscheduler
 telegraph[aio]
+dnspython==2.3.0
